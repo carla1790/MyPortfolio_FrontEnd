@@ -1,3 +1,50 @@
 body {
     padding: 0.5em 1em;
     }
+
+.banner {
+    position: relative;
+}
+
+.perfil {
+    position: absolute;
+    top: 9em;
+    left: 0.4em;
+}
+
+    footer {
+    text-align: center;
+    font-size: 0.5cm;
+    word-spacing: 2mm;
+    line-height: 1cm;
+    letter-spacing:0.2mm;
+}
+
+.card {
+    color:black;
+}
+
+.acerca {
+    letter-spacing:0.2mm;
+    line-height: 0.5cm;
+}
+
+.progress-bar {
+font-size: 0.4cm;
+
+}
+
+footer ul li {
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+    }
+
+    body {
+        background: rgb(238,174,202);
+        background: linear-gradient(90deg, rgba(238,174,202,1) 8%, rgba(148,187,233,1) 81%);
+    }
+
+   h1 {
+    padding-top: 2.5%;
+   }

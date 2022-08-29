@@ -12,14 +12,6 @@ body {
     left: 0.4em;
 }
 
-    footer {
-    text-align: center;
-    font-size: 0.5cm;
-    word-spacing: 2mm;
-    line-height: 1cm;
-    letter-spacing:0.2mm;
-}
-
 .card {
     color:black;
 }
@@ -31,14 +23,16 @@ body {
 
 .progress-bar {
 font-size: 0.4cm;
-
 }
 
-footer ul li {
-    display:inline;
-    padding-left:3px;
-    padding-right:3px;
-    }
+
+
+.nav>li {
+    display: inline;
+    margin:0 auto;
+  align-content: center;
+  }
+      
 
     body {
         background: rgb(238,174,202);
@@ -47,4 +41,19 @@ footer ul li {
 
    h1 {
     padding-top: 2.5%;
+   }
+
+   .hello {
+    padding-bottom: 0.6cm;
+    padding-top: 1.5cm;
+    text-align: center;
+    font-size: 0.5cm;
+    word-spacing: 2mm;
+    line-height: 1cm;
+    letter-spacing:0.2mm;
+   }
+
+   footer {
+    align-self: center;
+
    }
